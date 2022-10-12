@@ -1,0 +1,60 @@
+I3:
+
+Container Layout:
+- Super+e           -   i3 split mode
+- Super+f           -   i3 full screen
+- Super+s           -   i3 stack mode
+- Super+t           -   i3 tab mode
+- Super+Shift Space -   i3 Floating mode
+
+General:
+- Super+0       -   Logout \ Restart \ Shutdown
+- Super+c       -   Edit i3 config
+- Super+d       -   Rofi
+- Super+g       -   Show this help
+- Super+Shift+c -   Reload configuration file
+- Super+Shift+e -   Exit i3
+- Super+Shift+r -   Restart restart i3 inplace (preserves layout/session)
+- Super+Shift+x -   Lock the screen
+
+Application:
+- ctrl+Alt+a    -   Anydesk
+- ctrl+Alt+b    -   break-timer
+- ctrl+Alt+c    -   Gnome-calculator
+- ctrl+Alt+f    -   Vifm
+- ctrl+Alt+g    -   Gimp
+- ctrl+Alt+k    -   Keepass
+- ctrl+Alt+l    -   Libreoffice writer
+- ctrl+Alt+n    -   Thunar
+- ctrl+Alt+s    -   Rofi -show ssh
+- ctrl+Alt+t    -   Thunderbird
+- ctrl+Alt+u    -   WhatsApp
+- ctrl+Alt+v    -   Virtualbox
+- ctrl+Alt+w    -   Firefox
+- ctrl+Alt+x    -   Xkill
+- ctrl+Alt+y    -   Youtube
+- ctrl+Alt+z    -   Filezilla
+
+Hardware:
+- ctrl+Alt+h    -   Refresh hdmi sound
+- ctrl+Shift+1  -   Volume Down
+- ctrl+Shift+2  -   Volume Up
+
+
+
+
+
+VIFM:
+i- yy, p        -   copy file, paste
+:copy, :move    -   to other pan
+cw, cW          -   rename file, W keep suffix
+:marks          -   show marks
+ms, 's          -   mark directory as s, goto to s directory
+gg, M, G        -   goto top, middle, button
+enter           -   launch text editor
+e               -   preview the documents
+:shell          -   open terminal
+dd              -   delete a file. u to un-delete
+za              -   show\hide hidden files
+:q              -   quit
+
